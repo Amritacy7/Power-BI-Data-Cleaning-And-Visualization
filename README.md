@@ -118,7 +118,7 @@ Data-Professionals-Survey/
 Example:
 
 ```
-Dashboard Screenshot.png
+[Dashboard Screenshot.png](https://github.com/Amritacy7/Power-BI-Data-Cleaning-And-Visualization/blob/main/Dashboard%20screenshot.png)
 ```
 
 ---
@@ -137,6 +137,6 @@ Dashboard Screenshot.png
 
 ---
 
-## 📬 Contact
+## 📬 Amritacy7@gmail.com
 
 If you have any questions or suggestions, feel free to connect with me on GitHub or LinkedIn.
